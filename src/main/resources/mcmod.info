@@ -1,0 +1,15 @@
+[{
+  "modid": "buckler",
+  "name": "Buckle's Skills Mod",
+  "description": "placeholder text",
+  "version": ${version},
+  "mcversion": ${mcversion},
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PopMyBuckle"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}]
